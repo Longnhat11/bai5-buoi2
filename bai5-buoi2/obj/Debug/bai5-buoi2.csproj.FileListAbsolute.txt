@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\bin\Debug\bai5-buoi2.exe.config
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\bin\Debug\bai5-buoi2.exe
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\bin\Debug\bai5-buoi2.pdb
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\obj\Debug\bai5-buoi2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\obj\Debug\bai5-buoi2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\obj\Debug\bai5-buoi2.exe
+C:\Users\LENOVO\source\repos\bai5-buoi2\bai5-buoi2\obj\Debug\bai5-buoi2.pdb
